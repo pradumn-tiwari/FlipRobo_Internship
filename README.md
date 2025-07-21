@@ -8,7 +8,7 @@ Libraries & Tools: requests, BeautifulSoup, Scrapy, Selenium, MySQL, Pandas, Num
 
 Environment: Jupyter Notebook, Git
 
-📌 Key Contributions
+## 📌 Key Contributions
 Web Scraping Automation
 Built efficient scraping pipelines using Python (requests, Scrapy, and Selenium) to collect structured data from multiple dynamic web sources, improving data access speed by 35% for internal teams.
 
@@ -21,7 +21,7 @@ Engineered custom features and conducted exploratory data analysis to support mo
 Collaboration in Model Building
 Contributed to team discussions and code reviews on supervised ML strategies, helping refine model input features and testing pipelines.
 
-📈 What I Learned
+## 📈 What I Learned
 Practical implementation of web scraping best practices, handling dynamic sites and request limitations.
 
 Real-time collaboration on data pipelines and machine learning workflows.
