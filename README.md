@@ -1,4 +1,4 @@
-🚀 FlipRobo Technologies – Data Science Internship (Sept 2023 – Mar 2024)
+## 🚀 FlipRobo Technologies – Data Science Internship (Sept 2023 – Mar 2024)
 This repository contains key work and learning highlights from my Data Science Internship at FlipRobo Technologies. During this 6-month virtual internship, I worked on real-world projects involving web scraping, data extraction, preprocessing, and collaboration on ML models.
 
 🔧 Tech Stack
